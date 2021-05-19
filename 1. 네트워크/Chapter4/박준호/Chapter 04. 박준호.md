@@ -43,7 +43,7 @@
 
 ### 3-3 BAS
 
-![image-20210519151136382](C:\Users\semipumpkin\AppData\Roaming\Typora\typora-user-images\image-20210519151136382.png)
+![image-20210519151136382](C:\Users\semipumpkin\Desktop\CS-Study--\1. 네트워크\Chapter4\박준호\Chapter 04. 박준호.assets\image-20210519154415650.png)
 
 - ISP 네트워크의 DSLAM 같은 광대역 통신 장치에서 트래픽을 라우팅하는 역할
 
